@@ -1,0 +1,64 @@
+/* Neden ziyaret etmelisiniz ve katılımcı profilinin ortak css dosyası */
+
+:root {
+  --primarycolor: #FBAD18;
+  --secondarycolor: #85837D;
+  --thirdcolor: #0c243d;
+}
+
+
+.container-nze {
+    min-height: 82vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.card-grid-nze {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.h1-ziyaretci {
+  font-size: 38px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #000000;
+}
+
+
+.card-nze {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 180px;
+}
+
+.icon-nze {
+    font-size: 28px;
+    color: #1a3b5d;
+    margin-bottom: 15px;
+}
+
+.card-text-nze {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Responsive tasarım */
+
+@media (max-width: 992px) {
+    .card-grid-nze {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
