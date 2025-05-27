@@ -2,12 +2,12 @@
 const initialCards = [
   {
     id: 1,
-    image: "./images/blog1.jpg",
+    image: "./images/ESTAblog1.jpeg",
     date: "06",
     category: "Announcements",
     title: "Countdown Begins for the Global Summit of the Oral and Dental Health Industry!",
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/example-blog-1.html",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const initialCards = [
     category: "Announcements",
     title: "Expectations Rise for Paper Eurasia 2025: Global Paper Industry Meets in Istanbul in May 2025!",
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/blog2-single.html",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const initialCards = [
     category: "Agenda",
     title: "AYSAF 2025: Growing Together with Footwear Industry Professionals!",
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/blog2-single.html",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const initialCards = [
     category: "Blog",
     title: "The pulse of the energy and environment sector will be taken at the ICCI 2025 Conference!",
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/blog2-single.html",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const initialCards = [
     category: "News",
     title: 'Countdown begins for "Turkey\'s Electricity Fair" Electricity Eurasia 2025!',
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/blog2-single.html",
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ const initialCards = [
     category: "News",
     title: "FOTEG Istanbul 2025 Brings Food Processing Industry Professionals Together for the 17th Time!",
     text: "...",
-    link: "/en/blog-single-page.html",
+    link: "/en/blog2-single.html",
   },
 ]
 

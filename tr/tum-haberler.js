@@ -3,12 +3,12 @@ const initialCards = [
   {
     id: 1,
     image:
-      "./images/blog1.jpg",
+      "./images/ESTAblog1.jpeg",
     date: "06",
-    category: "Duyurular",
-    title: "Ağız ve Diş Sağlığı Sektörünün Global Zirvesi İçin Geri Sayım Başladı!",
+    category: "Haberler",
+    title: "ESTA 2025 MÜKEMMELLİK ÖDÜLLERİ SAHİPLERİNİ BULDU!",
     text: "...",
-    link: "/tr/blog-single-page.html",
+    link: "/tr/ornek-blog-1.html",
   },
   {
     id: 2,
